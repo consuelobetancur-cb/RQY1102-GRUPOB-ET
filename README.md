@@ -22,4 +22,4 @@ Descripcion del problema : La administración de gastos comunes en edificios res
 
 Solución : crear un sistema que automatiza el cálculo de gastos comunes (prorrateo), gestiona el control de morosidad con alertas automáticas y proporciona una plataforma de consulta en tiempo real para residentes y administradores, asegurando la integridad de los datos
 
-Enlace al prototipo : 
+Enlace al prototipo : https://www.figma.com/make/FM8Q1kn8UpXSCDLwoGr8S4/Financial-Subsystem-Development?t=AiU7k8sekG3GLHEn-20&fullscreen=1
