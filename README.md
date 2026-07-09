@@ -1,6 +1,7 @@
 # RQY1102-GRUPOB-ET
 Nombre del proyecto : SIGEM (Sistema de Gestión El Mirador)
 Integrantes : Consuelo Betancur , Eduardo Tapia Y Alvaro Salazar
+
 Roles : 
 -Consuelo Betancur
 Gestor de Proyecto & Analista
